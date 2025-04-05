@@ -1,0 +1,16 @@
+body {
+  background-color: #d6a100;
+  background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
+}
+
+.content-body {
+  text-align: center;
+}
+
+.footer-link {
+  margin-right: 20px;
+}
+
+footer {
+  margin-top: 30px;
+}
